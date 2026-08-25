@@ -13,6 +13,7 @@ A Python-based background keystroke logging application and a PHP dashboard for 
 ## Tech Stack
 * **Client:** Python (`pynput`, HTTP requests)
 * **Server / Dashboard:** PHP, HTML/CSS, JavaScript
+> **Disclaimer:** This project was developed for academic and cybersecurity educational purposes only. Unauthorized use of keystroke loggers or monitoring software against target systems without explicit prior consent is illegal and violates ethical standards. The author assumes no liability for any misuse or damage caused by this software.
 
 ##Project Structure
 ```text
